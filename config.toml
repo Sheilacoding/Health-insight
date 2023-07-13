@@ -1,4 +1,6 @@
-baseurl = "https://blist.vercel.app"
+#baseurl = "https://blist.vercel.app"
+baseurl = "https://celebrated-fenglisu-226492.netlify.app"
+
 metaDataFormat = "yaml"
 title = "Health Insights"
 theme = "blist"
