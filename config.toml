@@ -1,5 +1,5 @@
 #baseurl = "https://blist.vercel.app"
-baseurl = "https://alexanderbadong.netlify.app"
+baseurl = "https://alexanderbadong.com"
 
 metaDataFormat = "yaml"
 title = "Health Insights"
