@@ -32,7 +32,7 @@ DefaultContentLanguageInSubdir = true
         url = "tags"
         weight = 3
 
-    [[languages.en.menu.main]]
+    # [[languages.en.menu.main]]
         name = "Top Post"
         url = "/en/blog/emoji-support/"
         weight = 4
